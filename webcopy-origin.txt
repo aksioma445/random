@@ -1,0 +1,40 @@
+Uri: https://pointauc.com/
+File Name: C:\Downloaded Web Sites\pointauc.com\index.htm
+Content Type: text/html
+
+Uri: https://pointauc.com/assets/HelveticaNeue-Medium-74aa7836.otf
+File Name: C:\Downloaded Web Sites\pointauc.com\assets\HelveticaNeue-Medium-74aa7836.otf
+Content Type: application/octet-stream
+
+Uri: https://pointauc.com/assets/HelveticaNeueCyr-Bold-b51e10af.woff
+File Name: C:\Downloaded Web Sites\pointauc.com\assets\HelveticaNeueCyr-Bold-b51e10af.woff
+Content Type: application/font-woff
+
+Uri: https://pointauc.com/assets/HelveticaNeueCyr-Light-909892f8.woff
+File Name: C:\Downloaded Web Sites\pointauc.com\assets\HelveticaNeueCyr-Light-909892f8.woff
+Content Type: application/font-woff
+
+Uri: https://pointauc.com/assets/HelveticaNeueCyr-Roman-815eeadc.woff
+File Name: C:\Downloaded Web Sites\pointauc.com\assets\HelveticaNeueCyr-Roman-815eeadc.woff
+Content Type: application/font-woff
+
+Uri: https://pointauc.com/assets/HelveticaNeueCyr-Thin-0414c13e.woff
+File Name: C:\Downloaded Web Sites\pointauc.com\assets\HelveticaNeueCyr-Thin-0414c13e.woff
+Content Type: application/font-woff
+
+Uri: https://pointauc.com/assets/index-2038bc46.js
+File Name: C:\Downloaded Web Sites\pointauc.com\assets\index-2038bc46.js
+Content Type: application/javascript
+
+Uri: https://pointauc.com/assets/index-6982fc11.css
+File Name: C:\Downloaded Web Sites\pointauc.com\assets\index-6982fc11.css
+Content Type: text/css
+
+Uri: https://pointauc.com/favicon_new.ico
+File Name: C:\Downloaded Web Sites\pointauc.com\favicon_new.ico
+Content Type: image/x-icon
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-8J2DBRV59P
+File Name: C:\Downloaded Web Sites\pointauc.com\gtag\js
+Content Type: application/javascript
+
